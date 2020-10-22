@@ -45,13 +45,5 @@ int main() {
 	/*
 	 * sockets
 	 * http://linuxhowtos.org/C_C++/socket.htm sockets
-	 *
-	 * linux server example of the lab
-	 * https://github.com/MLGcat/D0036D/tree/master/Lab%204/Spelprotokoll_server_linux
-	 *
-	 *
-	 *
-	 *
-	 * Måste accepta connections, skapa trådar för varje connection som hanterar reads i guess, checka gitten
 	 */
 }
